@@ -1,2 +1,42 @@
-# prework-study-guide
-A study guide for course pre-work.
+# Prework Study Guide Webpage
+
+## Description
+
+This Prework Study Guide Webpage help me to learned the basics programming of HTML, CSS, using Git, and JavaScript which I enjoyed a lot. This page contains my first coding experience towards front-end development which I am excited about.
+
+## Table of Contents (Optional)
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Installation](#installation)
+- [License](#license)
+
+## Installation
+
+1. You need to have a browser that you will use throughout the project, I will recommend to install Google Chrome.
+2. You will need to install Git CLI and GitHub
+3. You will need to install an IDE for your coding. I would recomment to install VS Code.
+
+## License
+
+MIT License
+
+Copyright (c) 2022 Robert Patrick Jordan Sazon
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
